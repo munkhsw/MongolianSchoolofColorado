@@ -171,7 +171,7 @@ ul.social .svg-inline--fa:hover {
 
 }
 /* Devices under 768px (md) */
-@media (max-width: 767px) {
+@media (max-width: 550px) {
   .carousel-caption h1 {
     font-size: 2rem;
     letter-spacing: .15rem;
